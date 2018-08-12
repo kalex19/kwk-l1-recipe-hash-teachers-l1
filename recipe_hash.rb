@@ -2,7 +2,7 @@ Perfect_10_Recipe = { :almond_flour => "2 cups", :gluten_free_whole_oats => "1 c
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
-
+return perfect_10_recipe
 end
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
