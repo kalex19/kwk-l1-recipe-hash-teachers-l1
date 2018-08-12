@@ -11,7 +11,7 @@ recipe_ingredients
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
 def amount_of_chocolate_chips
   return perfect_10_recipe |mini_dark_chocolate_chips, value|
-end
+# end
 
 amount_of_chocolate_chips
 
@@ -39,6 +39,6 @@ amounts
 #6: Return the number of ingredients in the `perfect_10_recipe` hash.
 def number_ingredients
   return perfect_10_recipe.count
-end
+# end
 
 number_ingredients
