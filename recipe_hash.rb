@@ -20,6 +20,7 @@ end
 
 def amounts(perfect_10_recipe)
   perfect_10_recipe.each do |value|
+    puts value 
 end
 
 
@@ -28,4 +29,3 @@ def number_ingredients
 end
 end 
 
-number_ingredients
