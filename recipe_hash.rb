@@ -15,7 +15,7 @@ def ingredients_and_amounts(perfect_10_recipe)
 end
 
 def ingredients(perfect_10_recipe)
-  puts perfect_10_recipe.each_key
+  perfect_10_recipe.each_key
 end
 
 ingredients
