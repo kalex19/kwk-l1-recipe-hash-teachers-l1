@@ -1,10 +1,8 @@
-#code your solutions here
-
-#1. Create a hash called `perfect_10_recipe` that has the following data:
 Perfect_10_Recipe = { :almond_flour => "2 cups", :gluten_free_whole_oats => "1 cup", :kosher_salt => "1/2 teaspoon", :baking_powder => "1/2 teaspoon", :baking_soda => "1/4 teaspoon",:xanthan_gum => "1/2 teaspoon", :slivered_almonds => "1/4 cup", :mini_dark_chocolate_chips => "3/4 cup", :olive_oil => "1/2 cup", :agave => "1/4 cup"}
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
+
 end
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
