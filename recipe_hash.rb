@@ -19,7 +19,7 @@ def ingredients(perfect_10_recipe)
 end
 
 def amounts(perfect_10_recipe)
-  perfect_10_recipe.each
+  perfect_10_recipe.each do |value|
 end
 
 
