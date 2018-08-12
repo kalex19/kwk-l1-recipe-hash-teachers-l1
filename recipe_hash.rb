@@ -18,13 +18,11 @@ def ingredients(perfect_10_recipe)
   perfect_10_recipe.each_key { |key| puts key }
 end
 
-def amounts
+def amounts(perfect_10_recipe)
   puts perfect_10_recipe.each_value
 end
 
-amounts
 
-#6: Return the number of ingredients in the `perfect_10_recipe` hash.
 def number_ingredients
   return perfect_10_recipe.count
 end
