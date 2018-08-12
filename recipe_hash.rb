@@ -10,7 +10,8 @@ def amount_of_chocolate_chips(perfect_10_recipe)
 end
 
 def ingredients_and_amounts(perfect_10_recipe) 
-  perfect_10_recipe.each
+  perfect_10_recipe.each do |key,value|
+    puts #{key
 end
 
 ingredients_and_amounts
