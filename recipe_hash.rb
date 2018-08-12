@@ -2,7 +2,7 @@ perfect_10_recipe = { :almond_flour => "2 cups", :gluten_free_whole_oats => "1 c
 
 perfect_10_recipe
 
-def recipe_ingredients(perfect_10_recipe)
+def recipe_ingredients
   return perfect_10_recipe
 end
 
