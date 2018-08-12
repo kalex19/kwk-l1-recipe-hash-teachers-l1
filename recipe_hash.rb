@@ -39,6 +39,7 @@ amounts
 #6: Return the number of ingredients in the `perfect_10_recipe` hash.
 def number_ingredients
   return perfect_10_recipe.count
-# end
+end
+end 
 
 number_ingredients
